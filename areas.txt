@@ -1,0 +1,76 @@
+[
+    {
+        "nombre": "desarrollo",
+        "descripcion": "desarollar estrategias de productos",
+        "empleados": [
+            {
+                "nombre": "alvaro",
+                "apellido": "cerquera",
+                "edad": 29,
+                "dni": "123456",
+                "fecha_vinculacion": "25/09/2023",
+                "salario": 3500000.0
+            },
+            {
+                "nombre": "laura",
+                "apellido": "gozales",
+                "edad": 25,
+                "dni": "896541",
+                "fecha_vinculacion": "08/06/2024",
+                "salario": 1500000.0
+            },
+            {
+                "nombre": "lenard",
+                "apellido": "mazabel",
+                "edad": 18,
+                "dni": "159875",
+                "fecha_vinculacion": "24/03/2024",
+                "salario": 1500000.0
+            }
+        ]
+    },
+    {
+        "nombre": "marketing",
+        "descripcion": " tiene como objetivo principal generar demanda, aumentar las ventas y fortalecer la imagen de la marca.",
+        "empleados": [
+            {
+                "nombre": "felipe",
+                "apellido": "prado",
+                "edad": 27,
+                "dni": "157438",
+                "fecha_vinculacion": "22/10/2022",
+                "salario": 3600000.0
+            },
+            {
+                "nombre": "sara ",
+                "apellido": "ule",
+                "edad": 26,
+                "dni": "147962",
+                "fecha_vinculacion": "25/06/2023",
+                "salario": 2400000.0
+            }
+        ]
+    },
+    {
+        "nombre": "recursos humanos",
+        "descripcion": "encargada de reclutar a los trabajadores, o en ocasiones contratan empresas para llevar a cabo este importante proceso de selecci\u00f3n",
+        "empleados": [
+            {
+                "nombre": "felipe",
+                "apellido": "prado",
+                "edad": 27,
+                "dni": "157438",
+                "fecha_vinculacion": "22/10/2022",
+                "salario": 3600000.0
+            },
+            {
+                "nombre": "paula",
+                "apellido": "casas",
+                "edad": 28,
+                "dni": "159354",
+                "fecha_vinculacion": "26/11/2023",
+                "salario": 3300000.0
+            }
+        ]
+    }
+]
